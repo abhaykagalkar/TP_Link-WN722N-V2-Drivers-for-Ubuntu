@@ -1,4 +1,7 @@
 # TP Link WN722N V2 Drivers for Ubuntu
+## TL-WN722N-V2
+
+![TP_Link-WN722N-V2-Drivers-for-Ubuntu](device_img.jpg?raw=true "TP_Link-WN722N-V2-Drivers-for-Ubuntu")
 
 TP LINK TP-WN722N V2 150Mbps HIGH-GAIN WiFi- Receiver Ubuntu drivers
 

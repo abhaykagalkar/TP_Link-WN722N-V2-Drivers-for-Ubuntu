@@ -35,8 +35,6 @@ abhay@codesexplorer.com
 [Abhay Kagalkar](http://www.codesexplorer.com/p/about.html)
 1. Github: https://github.com/abhaykagalkar
 2. Email: abhay@codesexplorer.com or abhaykagalkar@gmail.com
-3. Mobile: +91-9538669511
-
 
 
 # For further assistance on device visit the offical site
